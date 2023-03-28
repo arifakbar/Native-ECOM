@@ -113,14 +113,15 @@ const styles = StyleSheet.create({
         fontWeight: "bold",
         color: "grey"
     },
-    bannerImg2: {
-        height: "100%",
-        width: "100%"
-    },
     bannerScroll: {
         borderTopWidth: 1,
         borderTopColor: "grey",
-        paddingVertical: 5
+        paddingVertical: 5,
+        height: "100%"
+    },
+    bannerImg2: {
+        height: "100%",
+        width: "100%"
     },
     loginBtn: {
         borderWidth: 2,
